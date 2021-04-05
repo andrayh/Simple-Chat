@@ -5,4 +5,5 @@ There is no active database connected to the application so if u want to use it 
 Chat is also not finished yet. (There is no connection)
 
 
+
 If you want to open the VS Project launch Chat.sln
