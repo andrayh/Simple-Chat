@@ -1,0 +1,14 @@
+C:\Users\André\source\repos\Application\Tester\bin\Debug\Tester.exe.config
+C:\Users\André\source\repos\Application\Tester\bin\Debug\Tester.exe
+C:\Users\André\source\repos\Application\Tester\bin\Debug\Tester.pdb
+C:\Users\André\source\repos\Application\Tester\obj\Debug\Tester.Login.resources
+C:\Users\André\source\repos\Application\Tester\obj\Debug\Tester.Application.resources
+C:\Users\André\source\repos\Application\Tester\obj\Debug\Tester.Properties.Resources.resources
+C:\Users\André\source\repos\Application\Tester\obj\Debug\Tester.Settings.resources
+C:\Users\André\source\repos\Application\Tester\obj\Debug\Tester.SignUp.resources
+C:\Users\André\source\repos\Application\Tester\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\André\source\repos\Application\Tester\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\Application\Tester\obj\Debug\Tester.exe
+C:\Users\André\source\repos\Application\Tester\obj\Debug\Tester.pdb
+C:\Users\André\source\repos\Application\Tester\obj\Debug\Tester.Language.resources
+C:\Users\André\source\repos\Application\Tester\obj\Debug\App.csprojAssemblyReference.cache
